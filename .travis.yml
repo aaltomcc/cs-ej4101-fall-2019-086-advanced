@@ -9,7 +9,7 @@ install:
 
 script:
   - hugo
-  - echo 'https://aaltomcc.github.io/cs-ej4101-fall-2019-086-advanced/' > public/CNAME
+  - echo 'aaltomcc.github.io/cs-ej4101-fall-2019-086-advanced' > public/CNAME
 
 # Deploy to GitHub pages
 deploy:
