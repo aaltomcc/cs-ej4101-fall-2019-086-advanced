@@ -6,4 +6,6 @@ meta: "false"
 ---
 # About
 
-![HackerPhoto](../resources/_gen/images/hacker-3342696_1280.jpg)
+![HackerPhoto](/cs-ej4101-fall-2019-086-advanced/images/hacker.jpg)
+
+I am a 2nd year Computer Science student at Aalto University.
