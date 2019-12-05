@@ -2,6 +2,9 @@ baseURL = "https://aaltomcc.github.io/cs-ej4101-fall-2019-086-advanced/"
 
 languageCode = "en-us"
 
-title = "My New Hugo Site"
+title = "Advanced Project 086"
 
 theme = "hugo-kiera"
+
+[params]
+    tagline = "Introduction to DevOps Course Project"
