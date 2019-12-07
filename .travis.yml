@@ -9,7 +9,7 @@ install:
 
 script:
   - hugo
-  - echo 'aaltomcc.github.io' > public/CNAME
+#  - echo 'aaltomcc.github.io' > public/CNAME
 
 # Deploy to GitHub pages
 deploy:
