@@ -1,0 +1,67 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+   <title>Categories on Advanced Project 086</title>
+   <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-086-advanced/categories/</link>
+   <description>Recent content in Categories on Advanced Project 086</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <language>en-us</language>
+   
+       <atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-086-advanced/categories/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+     <item>
+       <title>Learning</title>
+       <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-086-advanced/post/learning/</link>
+       <pubDate>Thu, 05 Dec 2019 21:51:56 +0200</pubDate>
+       
+       <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-086-advanced/post/learning/</guid>
+       <description>&lt;h2 id=&#34;learning-086&#34;&gt;learning 086&lt;/h2&gt;
+&lt;p&gt;During this course, I have learned many new concepts and have come to understand concepts I knew beforehand more in-depth.&lt;/p&gt;
+&lt;p&gt;The first things I learned are the &lt;strong&gt;&lt;em&gt;three ways&lt;/em&gt;&lt;/strong&gt;, the goals of DevOps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Systems Thinking&lt;/strong&gt;: Moving the product through the system as quickly as possible from one end to the other (cf. factory production line). Global optimizations of flow through the system are prioritized over local ones.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feedback Loops&lt;/strong&gt;: Shortening and amplifying feedback loops. Any feedback (e.g. measuring throughput of work in the system) should be processed and signalled efficiently from the end to the beginning of the system, in order to improve and optimize system flow.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Culture of Experimentation&lt;/strong&gt;: Continual experimentation and learning from failure. Experimenting with SW and infrastructure allows us to learn from any mistakes made on each iteration and to master our craft through repetition, perhaps even breaking new ground on the way.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Next, I learned about the &lt;strong&gt;&lt;em&gt;CAMS model&lt;/em&gt;&lt;/strong&gt;, which represents the core approaches of DevOps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Culture&lt;/strong&gt;: Adopting a business culture that aims to improve various aspects of the business. DevOps SW development life-cycles, technical debt grooming, destructive testing, hack events and cross-functional teams (e.g. via Scrum) are all part of the culture aspect of CAMS. (cf. Culture of Experimentation)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automation&lt;/strong&gt;: Automating parts of the system flow for efficiency and better quality. Configuration management focuses on the establishing and maintaining consistency of product performance and functional/physical attributes, and continuous delivery aims for building, testing and releasing SW at greater speed and frequency. (cf. Systems Thinking)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Measurement&lt;/strong&gt;: Measuring system flow in various ways allows for keeping benchmarks, based on which the business tries to optimize and improve its system. (cf. Feedback Loops)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sharing&lt;/strong&gt;: Visibility, transparency and knowledge transfer are key components of sharing within a business. Everyone should be able to see what the current progress is in different parts of the organization, how the progress has been made and the processes involved to make that progress.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally, I learned various things by doing this &lt;strong&gt;&lt;em&gt;advanced project&lt;/em&gt;&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Integration/Delivery&lt;/strong&gt;: I have used Jenkins before at work, but it was very educational to configure everything myself via Travis CI. The project showed me that it can be very simple to utilize CI/CD in my hobby projects if I wish to do so and will help a great deal in automating the menial tasks, such as testing and deployment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt;: A simple, lightweight markup language that could be very useful in documentation or writing blogs, for example.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Combining Technologies&lt;/strong&gt;: Combining Hugo, GitHub Pages, Travis CI and various file formats to create website through CI/CD was very fun!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google is Your Friend&lt;/strong&gt;: Whenever I came across a problem, Google came to my help. Just about any question already has an existing answer. The most challenging part of the project was probably setting up the .travis.yml file, but after consulting a few articles I was able to do it without problems.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+     </item>
+   
+     <item>
+       <title>Course</title>
+       <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-086-advanced/post/course/</link>
+       <pubDate>Thu, 05 Dec 2019 21:51:03 +0200</pubDate>
+       
+       <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-086-advanced/post/course/</guid>
+       <description>&lt;h2 id=&#34;this-course-086&#34;&gt;this course 086&lt;/h2&gt;
+&lt;p&gt;I took this course as it was recommended as a good introduction to DevOps by the professor of the Software Project course. DevOps practices will be very important later in our software projects, so I believed it to be a good idea to study it beforehand. Furthermore, I am very interested in modern SW development practices, and DevOps belongs to that category.&lt;/p&gt;
+&lt;p&gt;I came into the course knowing the basic idea of DevOps: A set of practices/tools that combine SW development (Dev) with IT operations (Ops), with the aim of shortening SDLC and provide CI/CD with high SW quality. I know of some CI/CD tools through work (Jenkins, Gerrit, JIRA and Confluence), but I was unfamiliar with the practices of DevOps, and I wanted to get a better understanding of these practices in particular.&lt;/p&gt;
+&lt;p&gt;There are many things I wished to learn coming into the project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Why DevOps is being used today.&lt;/li&gt;
+&lt;li&gt;Approaches to implementing DevOps in the most optimal way possible for an organization.&lt;/li&gt;
+&lt;li&gt;Understanding the statement &lt;em&gt;DevOps is a culture&lt;/em&gt; that I have seen used frequently.&lt;/li&gt;
+&lt;li&gt;The processes involved in setting up CI/CD pipelines and the terminology and precise definitions of relevant concepts, such as build, deployment, automation.&lt;/li&gt;
+&lt;li&gt;Various tools used to make SW development more efficient and sustainable, in addition to those I learned at work.&lt;/li&gt;
+&lt;li&gt;The use containers and virtual machines in CI/CD and/or testing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Having had a lot of questions about DevOps, I felt that this course would be the perfect opportunity to get a better grasp on the core elements of DevOps, which will most likely be of great use in my future studies and work.&lt;/p&gt;
+</description>
+     </item>
+   
+ </channel>
+</rss>
